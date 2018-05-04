@@ -10,7 +10,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello from 'my-branch'!");
+            Console.Write("Hello from master!");
         }
     }
 }
